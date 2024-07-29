@@ -3,10 +3,10 @@
 
 **Contact info:**
 
-Phone: +375 29 487 29 48
-Email: gladtan@tut.by
-LinkedIn: linkedin.com/in/tatsiana-hladkaya-a40a27203
-Location: Belarus
+Phone: +375 29 487 29 48 <br>
+Email: gladtan@tut.by <br>
+LinkedIn: linkedin.com/in/tatsiana-hladkaya-a40a27203 <br>
+Location: Belarus <br>
 
 **About me:**
     I am a self-motivated person who likes challenges and strives for self-development.
