@@ -1,5 +1,5 @@
 
-**Tatsiana Hladkaya**
+#Tatsiana Hladkaya
 
 **Contact info:**
 
@@ -21,10 +21,10 @@ Location: Belarus
 Currently taking a course at Rolling Scopes School and learning HTML, CSS, JS.
 
 **Languages:**
-- German (Fluent)
-- English (Full Proficiency)
-- Russian (Native)
-- Belarusian (Native)
+* German (Fluent)
+* English (Full Proficiency)
+* Russian (Native)
+* Belarusian (Native)
 
 
 
