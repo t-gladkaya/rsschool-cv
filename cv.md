@@ -1,11 +1,30 @@
 
-![фотография](/rsschool-cv/Photo.png)  **Гладкая Татьяна Анатольевна**
+**Tatsiana Hladkaya**
 
-Моб. телефон: +375 29 435 59 25
+**Contact info:**
 
-Окончила Минский Государственный Лингвистический Университет по специальности синхронный перевод. Владею иностранными языками: немецкий язык - С1, английский язык B1+. Регулярно езжу в Германию и Австрию, а так же общаюсь с заказчиками на обоих языках.
+Phone: +375 29 487 29 48
+Email: gladtan@tut.by
+LinkedIn: linkedin.com/in/tatsiana-hladkaya-a40a27203
+Location: Belarus
 
-С 2022 года работаю в ИТ в качестве менеджера по продажам. Благодаря общению с коллегами, стала больше погружаться в мир разработки и решила попробовать свои силы как frontend разработчик. 
+**About me:**
+    I am a self-motivated person who likes challenges and strives for self-development.
 
-На данный момент прохожу курс в Rolling Scopes School и изучаю HTML, CSS, JS.
+**Education:**
+    Graduated from Minsk State Linguistic University, specializing in simultaneous interpreting. I speak 2 foreign languages: German фтв English. I regularly travel to Germany and Austria, as well as communicate with customers in both languages.
+
+**Work experience:**
+    I have been working in IT as a sales manager since 2022. Thanks to networking with colleagues, I became more immersed in the world of development and decided to try my hand as a frontend developer.
+
+**Skills:**
+Currently taking a course at Rolling Scopes School and learning HTML, CSS, JS.
+
+**Languages:**
+- German (Fluent)
+- English (Full Proficiency)
+- Russian (Native)
+- Belarusian (Native)
+
+
 
