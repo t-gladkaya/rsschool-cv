@@ -13,7 +13,7 @@ Location: Belarus <br>
 
 <h2> Education:<br> </h2>
     Graduated from Minsk State Linguistic University, specializing in simultaneous interpreting. <br>
-    I speak 2 foreign languages: German фтв English. <br>
+    I speak 2 foreign languages: German and English. <br>
     I regularly travel to Germany and Austria, as well as communicate with customers in both languages.
 
 <h2> Work experience:<br> </h2>
