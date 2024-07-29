@@ -21,10 +21,10 @@ Location: Belarus <br>
 Currently taking a course at Rolling Scopes School and learning HTML, CSS, JS.
 
 <h2> Languages:<br> </h2>
-* German (Fluent)
-* English (Full Proficiency)
-* Russian (Native)
-* Belarusian (Native)
+* German (Fluent) <br>
+* English (Full Proficiency) <br>
+* Russian (Native) <br>
+* Belarusian (Native) <br>
 
 
 
