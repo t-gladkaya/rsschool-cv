@@ -6,6 +6,131 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
- ...    
+    <header class="container">
+        <section class="navigation-wrapper"> 
+            <nav class="navigation">
+                <ul class="navigation-list">
+                    <li class="navigation-item"><a href="#contacts" class="navigation-item-link">Contacts</a></li>
+                    <li class="navigation-item"><a href="#summary" class="navigation-item-link">Summary</a></li>
+                    <li class="navigation-item"><a href="#skills" class="navigation-item-link">Skills</a></li>
+                    <li class="navigation-item"><a href="#code" class="navigation-item-link">Code</a></li>
+                    <li class="navigation-item"><a href="#projects" class="navigation-item-link">Projects</a></li>
+                    <li class="navigation-item"><a href="#education" class="navigation-item-link">Education</a></li>
+                    <li class="navigation-item"><a href="#languages" class="navigation-item-link">Languages</a></li>
+                </ul>
+            </nav>
+        </section>   
+    </header>
+    
+    <main class="container"> 
+        <section class="photo-and-name">
+            <img class="photo" src="rsschool-cv/img/photo.jpg" alt="My photo">
+            <div class="name-and-position">
+                <p class="name">Tatsiana Hladkaya</p>
+                <p class="position">Junior Frontend Developer</p>
+            </div>
+        </section>
+
+
+        <section class="new-section-wrapper">
+
+            <section class="contacts new-section" id="contacts"><a href=""></a>
+                <h2> Contacts</h2>
+                    <p><img class="contacts-img" src="rsschool-cv/img/location.png" alt="Location-img">Minsk, Belarus</p>
+                    <p><img class="contacts-img" src="rsschool-cv/img/phone.png" alt="Phone-img">Phone: (123) 456-7890</p>
+                    <p><img class="contacts-img" src="rsschool-cv/img/email.png" alt="Email-img">Email: tatsiana.gladkaya@gmail.com</p>
+                    <p><img class="contacts-img" src="rsschool-cv/img/github.png" alt="GitGub-img">GitHub: github.com/t-gladkaya</p>
+                    <p><img class="contacts-img" src="rsschool-cv/img/portfolio.png" alt="Portfolio-img">tgladkaya.dev</p>
+            </section>
+
+            <section class="summary new-section" id="summary"><a href=""></a>
+                <h2>Summary</h2>
+                <p>Highly motivated junior front-end developer with a passion for creating dynamic and responsive web applications. Proficient in HTML, CSS, JavaScript, and modern front-end frameworks. Excellent problem-solving skills, attention to detail, and a strong desire to learn and grow in the tech industry. Proven ability to collaborate effectively in a team environment and deliver high-quality work on time.</p>
+            </section>
+
+            <section class="skills new-section" id="skills"><a href=""></a>
+                <h2>Skills</h2>
+                <p>
+                    <ul>
+                        <li>Front-End Development: HTML5, CSS3, JavaScript (ES6+)</li>
+                        <li>Frameworks/Libraries: React.js, Vue.js</li>
+                        <li>Version Control: Git, GitHub</li>
+                        <li>Tools & Technologies: Webpack, npm, Babel, RESTful APIs</li>
+                        <li>Responsive Design: Bootstrap, Tailwind CSS, Media Queries</li>
+                        <li>Testing: Jest, React Testing Library</li>
+                        <li>Design Tools: Figma, Adobe XD</li>
+                        <li>Soft Skills: Communication, Teamwork, Problem-Solving, Time Management</li>
+                    </ul>
+                </p>
+            </section>
+
+            <section class="code new-section" id="code"><a href=""></a>
+                <h2>Code</h2>
+                <code> 
+                    import React from 'react';<br><br>
+            const HelloWorld = () => {<br>
+              &nbsp;&nbsp;return (<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&lt;div&gt;<br>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;h1&gt;Hello, World!&lt;/h1&gt;<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&lt;/div&gt;<br>
+              &nbsp;&nbsp;);<br>
+            };<br><br>
+            export default HelloWorld;
+                </code>
+            </section>
+
+        <section class="projects new-section" id="projects"><a href=""></a>
+            <h2>Projects</h2>
+            <div class="projects-list">
+                <ol>
+                    <li><h3>Personal Portfolio Website:</h3>
+                        <span class="projects-color-change">Description:</span> Designed and developed a responsive personal portfolio website to showcase projects and skills. <br>
+                        <span class="projects-color-change">Technologies:</span> HTML5, CSS3, JavaScript, Bootstrap <br>
+                        <span class="projects-color-change">GitHub:</span> github.com/janedoe/portfolio <br>
+                        <span class="projects-color-change">Live Demo:</span> janedoe.dev <br>
+                    </li>
+                    <li><h3>Task Manager App:</h3>
+                        <span class="projects-color-change">Description:</span> Built a task manager application allowing users to create, read, update, and delete tasks. <br>
+                        <span class="projects-color-change">Technologies:</span> React.js, CSS3, Node.js, Express, MongoDB <br>
+                        <span class="projects-color-change">GitHub:</span> github.com/janedoe/task-manager <br>
+                        <span class="projects-color-change">Live Demo:</span> tasks.janedoe.dev <br>
+                    </li>
+                    <li><h3>Weather Dashboard:</h3>
+                        <span class="projects-color-change">Description:</span> Developed a weather dashboard application that fetches real-time weather data based on user input.<br>
+                        <span class="projects-color-change">Technologies:</span> HTML5, CSS3, JavaScript, OpenWeather API<br>
+                        <span class="projects-color-change">GitHub:</span> github.com/janedoe/weather-dashboard<br>
+                        <span class="projects-color-change">Live Demo:</span> weather.janedoe.dev<br>
+                    </li>
+                </ol>
+            </div>
+            
+            
+
+        </section>
+
+        <section class="eduaction new-section" id="education"><a href=""></a>
+            <h2>Education</h2>
+
+            <p>Bachelor of Science in Computer Science</p>
+            <p><span class="education-color-change">Institution:</span> University of Technology</p>
+            <p><span class="education-color-change">Year:</span> 2023</p>
+            <p><span class="education-color-change">Relevant Coursework:</span> Web Development, Data Structures, Algorithms, Database Management</p>
+        </section>
+
+        <section class="languages new-section" id="languages"><a href=""></a>
+            <h2>Languages</h2>
+            <ul>
+                <li>English: Fluent</li>
+                <li>German: Intermediate</li>
+                <li>French: Basic</li>
+            </ul>
+        </section>
+    </section>
+    </main>
 </body>
+<footer class="container">
+    <div class="footer-section">
+        &copy; Tatsiana Hladkaya, 2024
+    </div>
+</footer>
 </html>
