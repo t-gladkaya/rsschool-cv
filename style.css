@@ -20,6 +20,11 @@ body {
     line-height: 1.5em;
 }
 
+header {
+    position: fixed;
+    left: 0;
+    right: 0;
+}
 
 .navigation-list {
     display: flex;
@@ -28,8 +33,7 @@ body {
     font-size: 14px;
     color: var(--accent-font-color);
     justify-content: center; 
-    background-color: rgba(23, 26, 21, 0.848);
-    
+    background-color: rgba(23, 26, 21, 0.848);  
 }
 
 .navigation-item {
@@ -91,14 +95,14 @@ h2 {
 }
 
 .photo {
-    margin-top: 3%;
+    margin-top: 5%;
     max-width: 15%;
     overflow: hidden;
     border-radius: 50%;
 }
 
 .name-and-position {
-    margin-top: 3%;
+    margin-top: 5%;
     font-size: 20px;
     align-content: center;
     letter-spacing: .2rem;
