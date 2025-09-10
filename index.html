@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>CV - Tatsiana Hladkaya</title>
+</head>
+<body>
+    <header>
+        <div class="container-header">
+            <div class="photo"><img src="/rsschool-cv/src/photo.jpg" alt="Photo"></div>
+            <div class="navigation-container">
+                <nav class="navigation">
+                    <ul class="navigation-menu">
+                        <li><a href="#about-me">About</a></li>
+                        <li><a href="#code">Code</a></li>
+                        <li><a href="#projects">Projects</a></li>
+                        <li><a href="#skills">Skills</a></li>
+                        <li><a href="#contacts">Contacts</a></li>
+                    </ul>
+                </nav>
+                <div class="person">
+                    <h1>Tatsiana Hladkaya</h1>
+                    <div class="position">Junior Frontend Developer</div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="container-main">
+            <div class="main-content">
+                <div class="aside-content">
+                    <div class="education">
+                        <h2>Education</h2>
+                        <p>Minsk State Linguistic University</p>
+                    </div>
+                    <hr>
+                    <div class="skills" id="skills">
+                        <h2>Skills</h2>
+                        <div>
+                            <img class="icon" src="/rsschool-cv/src/HTML5_logo.png" alt="HTML">
+                            HTML
+                        </div>
+                        <div>
+                            <img class="icon" src="/rsschool-cv/src/css3-logo8.png" alt="CSS">
+                            CSS
+                        </div>
+                        <div>
+                            <img class="icon" src="/rsschool-cv/src/js.png" alt="Java Script">
+                            JavaScript
+                        </div>
+                        <div>
+                            <img class="icon" src="/rsschool-cv/src/React-icon.svg.png" alt="React">
+                            React
+                        </div>
+                        <div>
+                            <img class="icon" src="/rsschool-cv/src/github.png" alt="GitHub">
+                            GitHub
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="contacts" id="contacts">
+                        <h2>Contacts</h2>
+                        <h4><a href="tel:+375293902893">Phone</a></h4>
+                        <h4><a href="https://t.me/tgladkaya" target="_blank" rel="noopener">Telegram</a></h4>
+                        <h4><a href="mailto:gladtan@tut.by">Email</a></h4>
+                    </div>
+                </div>
+                <div class="detailed-content">
+                    <div class="about-me" id="about-me">
+                        <h2>About me:</h2>
+                        <p>Linguistics graduate with 5 years of proven success in IT sales, now transitioning into frontend development. Strong background in communication and client relations combined with solid technical skills in building modern, user-friendly web applications.</p>
+                    </div>
+                    <hr>
+                    <div class="strengths">
+                        <h2>My strengths:</h2>
+                        <ul>
+                            <li>Quick learner with proven ability to adapt and master new skills</li>
+                            <li>Strong communication skills</li>
+                            <li>Fast learner, adaptable</li>
+                            <li>Creative and analytical mindset</li>
+                        </ul>
+                    </div>
+                    <hr>
+                    <div class="languages">
+                        <h2>Languages</h2>
+                        <ul>
+                            <li>Russian - Native</li>
+                            <li>Belarusian - Native </li>
+                            <li>German -  Advanced</li>
+                            <li>English - Upper-Intermediate</li>
+                        </ul>
+                    </div>
+                    <hr>
+                    <div class="code-example" id="code">
+                        <h2>Code example</h2>
+                        <pre class="code"><code>
+                            function reverse (n) {
+                                let result = '';
+                                let str = Math.abs(n).toString();
+                                let i = 0;
+                                let a = 1
+                                
+                                while(i &lt; str.length) {
+                                    result = result + str[str.length-a];
+                                    i++;
+                                    a++;
+                                }
+                                
+                                return result;
+                            }
+                        </code></pre>
+                    </div>
+                    <hr>
+                    <div class="projects" id="projects">
+                        <h2>Projects</h2>
+                        <div class="project">
+                            <div class="project-photo">
+                                <a href="https://t-gladkaya.github.io/The-Rick-And-Morty-React-App/">
+                                    <img src="src/rick-and-morty.jpg" alt="Rick-and-Morty-photo">
+                                </a>
+                            </div>
+                            <div class="project-description">
+                                <h5>React + Vite Starter – Developed a lightweight frontend project using React and Vite with Hot Module Replacement and ESLint setup. Focused on building a fast, scalable foundation for modern web applications.</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <h4>Created in 2025</h4>
+        <a href="https://rs.school/courses/javascript-ru">
+            <img src="/rsschool-cv/src/rs-school-logo.svg" alt="Rsschool-logo">
+        </a>
+    </footer>
+</body>
+</html>
